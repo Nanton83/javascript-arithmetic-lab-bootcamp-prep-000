@@ -20,6 +20,6 @@ function makeInt(a){
   return a
 ;}
 function parseInt(a){
-  return a,10
+  return a,0
   
 ;}
